@@ -4,3 +4,9 @@ c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentOne\AssignmentO
 c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csprojResolveAssemblyReference.cache
 c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
 c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
+C:\Users\zoechen\Documents\C#\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+C:\Users\zoechen\Documents\C#\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+C:\Users\zoechen\Documents\C#\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
+C:\Users\zoechen\Documents\C#\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+C:\Users\zoechen\Documents\C#\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+C:\Users\zoechen\Documents\C#\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csprojResolveAssemblyReference.cache

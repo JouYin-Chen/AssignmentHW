@@ -22,7 +22,8 @@ namespace AssignmentOne
 
             Console.WriteLine("Name : {0} {1}\r\n",FirstName, LastName);
             Console.WriteLine("Birthdate : {0}\r\n",Birthdate);
-            Console.WriteLine("Address : " + AddressLine1 + AddressLine2 + City + State_Province + " No." + Zip_Postal + " " + Country+"\r\n");
+            Console.WriteLine("Address : {0} {1} {2} {3} No. {4}\r\n" , AddressLine1 , AddressLine2 , City , State_Province , Zip_Postal);
+            Console.WriteLine("Country : {0}", Country);
             Console.ReadKey();
         }
     }
