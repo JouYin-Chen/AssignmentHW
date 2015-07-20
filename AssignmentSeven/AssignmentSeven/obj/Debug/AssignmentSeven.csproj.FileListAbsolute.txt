@@ -1,0 +1,6 @@
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSeven\AssignmentSeven\bin\Debug\AssignmentSeven.exe.config
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSeven\AssignmentSeven\bin\Debug\AssignmentSeven.exe
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSeven\AssignmentSeven\bin\Debug\AssignmentSeven.pdb
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSeven\AssignmentSeven\obj\Debug\AssignmentSeven.csprojResolveAssemblyReference.cache
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSeven\AssignmentSeven\obj\Debug\AssignmentSeven.exe
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSeven\AssignmentSeven\obj\Debug\AssignmentSeven.pdb

@@ -1,0 +1,6 @@
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSix\AssignmentSix\bin\Debug\AssignmentSix.exe.config
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSix\AssignmentSix\bin\Debug\AssignmentSix.exe
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSix\AssignmentSix\bin\Debug\AssignmentSix.pdb
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSix\AssignmentSix\obj\Debug\AssignmentSix.csprojResolveAssemblyReference.cache
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSix\AssignmentSix\obj\Debug\AssignmentSix.exe
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentSix\AssignmentSix\obj\Debug\AssignmentSix.pdb
