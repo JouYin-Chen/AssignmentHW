@@ -1,0 +1,5 @@
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentFour\AssignmentFour\bin\Debug\AssignmentFour.exe.config
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentFour\AssignmentFour\bin\Debug\AssignmentFour.exe
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentFour\AssignmentFour\bin\Debug\AssignmentFour.pdb
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.exe
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.pdb
