@@ -1,0 +1,6 @@
+c:\users\zoechen\documents\visual studio 2012\Projects\AssignmentEight\AssignmentEight\bin\Debug\AssignmentEight.exe.config
+C:\Users\zoechen\Documents\Visual Studio 2012\Projects\AssignmentEight\AssignmentEight\bin\Debug\AssignmentEight.exe
+C:\Users\zoechen\Documents\Visual Studio 2012\Projects\AssignmentEight\AssignmentEight\bin\Debug\AssignmentEight.pdb
+C:\Users\zoechen\Documents\Visual Studio 2012\Projects\AssignmentEight\AssignmentEight\obj\Debug\AssignmentEight.csprojResolveAssemblyReference.cache
+C:\Users\zoechen\Documents\Visual Studio 2012\Projects\AssignmentEight\AssignmentEight\obj\Debug\AssignmentEight.exe
+C:\Users\zoechen\Documents\Visual Studio 2012\Projects\AssignmentEight\AssignmentEight\obj\Debug\AssignmentEight.pdb
