@@ -1,0 +1,13 @@
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\bin\Debug\Calculating.exe.config
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\bin\Debug\Calculating.exe
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\bin\Debug\Calculating.pdb
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\Calculating.csprojResolveAssemblyReference.cache
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\MainWindow.baml
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\MainWindow.g.cs
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\App.g.cs
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\Calculating_MarkupCompile.cache
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\Calculating.g.resources
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\Calculating.Properties.Resources.resources
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\Calculating.csproj.GenerateResource.Cache
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\Calculating.exe
+c:\users\zoechen\documents\visual studio 2012\Projects\Calculating\Calculating\obj\Debug\Calculating.pdb
